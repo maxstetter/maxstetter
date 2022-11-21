@@ -2,6 +2,7 @@
 * Studying Computer Science at Utah Tech University.
 * Experience in a plethora of different languages and frameworks.
 * Great team player and communicator.
+* [LinkedIn](https://www.linkedin.com/in/maximilian-stetter-53863b229/)
 ---
 ### Experience
 Front-end Software intern at Eta Compute:
